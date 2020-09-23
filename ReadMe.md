@@ -4,46 +4,46 @@ This project currently has 25 Test Cases that test the core functionality of the
 
 ### Covered areas are: 
 
-**1. Main page**
+1. **Main page**
     * 6 main dropdown menus
     * Logins dropdown menu
     * Covid-19 navigation notification
     * Site Search
     
-**2. Logins dropdown menu**
+2. **Logins dropdown menu**
     * Office 365 login
     * MyAccount login
     * BlackBoard login
     * MyCareer login
 
-**3. ‘Future Students’ dropdown**
+3. **‘Future Students’ dropdown**
     * English requirements
     * Transcripts
     * Transfer Credit
     * Apply sub-header
 
-**4. ‘Current Students’ dropdown**
+4. **‘Current Students’ dropdown**
     * Course Scheduling tool
     * Graduation
     * Register sub-header
     * Exam Schedule
     * Dates & Deadlines
 
-**5. ‘International Students’ dropdown**
+5. **‘International Students’ dropdown**
     * Int students programs
     * Scholarships and awards
     * PGWP
 
-**6. ‘Programs & Courses’ dropdown**
+6. **‘Programs & Courses’ dropdown**
     * Programs
     * Courses
     * Faculties
 
-**7. ‘Student Services’ dropdown**
+7. **‘Student Services’ dropdown**
     * ID
     * U-Pass
 
-**8. ‘About Douglas’ dropdown**
+8. **‘About Douglas’ dropdown**
     * Campus Facilities
     
 For full documentation and test cases see the separate document
